@@ -2,7 +2,7 @@
 _From Idea to Prototype_ | A course for DePaul University in partnership with Blue1647
 
 ## Session Zero: [Installfest!](installfest.md)
-## Session One: [Ideate!](sessions/session1.md)
+## Session One: [Ideate!](sessions/01.md)
 ## Session Two: [Storify!](#)
 ## Session Three: [Wireframe!](#)
 ## Session Four: [Wireframe Deux!](#)
