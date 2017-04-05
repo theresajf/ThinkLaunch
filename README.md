@@ -10,10 +10,10 @@ _From Idea to Prototype_ | A course for DePaul University in partnership with Bl
 ## Session Six: [Datamine!](#)
 ## Session Seven: [Build!](#)
 ## Session Eight: [Build MOAR!](#)
-## Session Nine: [Build MOAR!](#)
-## Session Ten: [Build MOAR!](#)
-## Session Eleven: [Build MOAR!](#)
-## Session Twelve: [Build MOAR!](#)
+## Session Nine: [Test!](#)
+## Session Ten: [Prototype!](#)
+## Session Eleven: [Pitch!](#)
+## Session Twelve: [Presentations!](#)
 
 ### [Resources](resources/resources.md)
 
